@@ -256,7 +256,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [A corporate DevRel program for honoring open source contributions](https://github.com/jansche/oss-advisors)
 * [CommonRoom](https://www.commonroom.io/): Community growth platform
 * [crowd.dev](https://crowd.dev): Find high-intent accounts in your developer data ([GitHub repo](https://github.com/CrowdDotDev/crowd.dev))
-* [OpenSparta](https://opensparta.com/en): Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace.
+* [OpenSparta](https://opensparta.com/en): Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations.
 
 ## Diversity, Equity and Inclusion
 
